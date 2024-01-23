@@ -1,2 +1,1 @@
-# Audio_Visualizer
-Created with CodeSandbox
+# Visualizador de audio usando Javascript
